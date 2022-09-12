@@ -1,0 +1,7 @@
+**/build/
+**/*.tar.gz
+**/*.bin
+**/.vscode/
+buildtools/**
+!buildtools/Makefile
+
